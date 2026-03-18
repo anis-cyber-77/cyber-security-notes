@@ -1,0 +1,5 @@
+Types of cyber attacks:
+- Phishing
+- Malware
+- Ransomware
+- Hacking
