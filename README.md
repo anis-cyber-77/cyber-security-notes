@@ -1,12 +1,15 @@
 # cyber-security-notes
-Basic cyber security learning notes
-## About
-This repository is created for learning cyber security basics.
+Basic cyber security learn# Cyber Security Notes
 
-## Topics
-- Cyber Security Introduction
-- Types of Attacks
-- Safety Tips
+This repository contains basic concepts of cyber security.
+
+## Topics Covered
+- Introduction to Cyber Security
+- Types of Cyber Attacks
+- Basic Security Practices
+
+## Purpose
+This project is created for learning and academic purposes.
 
 ## Author
 Anis
